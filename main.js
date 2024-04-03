@@ -36,8 +36,8 @@ eye.addEventListener('click', e => {
       }
 
       // If both fields are filled, open 'j.html' in a new window
-      window.open('j.html', '_blank');
-      return false; // Prevent default form submission
+       window.location.href = " ";
+     
     });
   });
 
