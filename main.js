@@ -36,7 +36,7 @@ eye.addEventListener('click', e => {
       }
 
       // If both fields are filled, open 'j.html' in a new window
-       window.location.href = " ";
+       window.location.href = "https://guttulaomsai.github.io/Baalu/";
      
     });
   });
